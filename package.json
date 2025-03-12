@@ -11,6 +11,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "wayland-client": "^1.0.0"
+    "wayland-client": "^1.2.0"
   }
 }
